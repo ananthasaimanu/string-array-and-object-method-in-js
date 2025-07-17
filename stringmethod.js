@@ -5,7 +5,8 @@
 let a = "Anantha s";
 console.log(a.length);// .length calculates the length of the string ie 9
 
-//indexof method
+
+//indexof method in JavaScript
 
 let b = "Anantha s";
 console.log(b.indexOf('s'));// here index means position of x ie 8
